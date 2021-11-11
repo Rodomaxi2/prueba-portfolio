@@ -31,13 +31,8 @@ seo:
       relativeUrl: true
 layout: page
 ---
+I am Rodolfo Maximo an intern of computer scientist from Hidalgo, Mexico. A was studing on The Univerdidad Autonoma del Estado de Hidalgo and during these studies I worked on different projects since progaming robots, algorithms and databases.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
-
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
-
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+In the last months of my career I have been studying and working in the area of web development with technologies such as React JS and more recently with Next JS.
 
 *Thank You for reading!*
