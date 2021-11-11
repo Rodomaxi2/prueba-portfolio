@@ -10,11 +10,12 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      I have worked in different areas, from programming a robot on the Arduino
+      platform, creating desktop application in C# and developing a small web
+      scraping algorithm, currently I am focusing on web development with
+      technologies like React and Next.JS, in my free time I like to enjoy video
+      games and books.
     actions:
       - label: Contact Me
         url: /contact
