@@ -9,7 +9,7 @@ sections:
       I'm a computer scientist student about to finish my studies.
   - section_id: about
     type: section_content
-    title: About my skills
+    title: About me
     content: >
       I have worked in different areas, from programming a robot on the Arduino
       platform, creating desktop application in C# and developing a small web
