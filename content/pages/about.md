@@ -31,7 +31,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-I am Rodolfo Maximo an intern of computer scientist from Hidalgo, Mexico. A was studing on The Univerdidad Autonoma del Estado de Hidalgo and during these studies I worked on different projects since progaming robots, algorithms and databases.
+I am Rodolfo Maximo Hernandez an intern of computer scientist from Hidalgo, Mexico. A was studing on The Univerdidad Autonoma del Estado de Hidalgo and during these studies I worked on different projects since progaming robots, algorithms and databases.
 
 In the last months of my career I have been studying and working in the area of web development with technologies such as React JS and more recently with Next JS.
 
