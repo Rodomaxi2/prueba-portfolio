@@ -30,12 +30,6 @@ sections:
         style: button
         new_window: true
         icon_class: github
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        icon_class: dev
-        new_window: false
-        no_follow: false
 seo:
   title: Stackbit Fresh Theme
   description: The preview of the Fresh theme
