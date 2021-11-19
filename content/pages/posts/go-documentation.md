@@ -3,7 +3,7 @@ title: Go Documentation
 subtitle: A little documentation
 date: '2021-09-13'
 thumb_img_alt: lorem-ipsum
-content_img_alt: lorem-ipsum
+content_img_alt: Thumbnail
 excerpt: A little page to compare and see the profits of go language.
 seo:
   title: ''
