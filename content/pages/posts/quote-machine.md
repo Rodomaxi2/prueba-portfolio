@@ -1,7 +1,7 @@
 ---
 title: Random Quote Machine
 subtitle: Looking for inspiration?
-date: '2021-08-19'
+date: '2021-08-02'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
