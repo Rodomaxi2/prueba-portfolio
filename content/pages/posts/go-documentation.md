@@ -15,3 +15,5 @@ content_img_path: /images/godoc.webp
 thumb_img_path: /images/godoc-0c4a4360.webp
 ---
 A little page to compare and see the profits of go language.
+
+[See more.](https://codepen.io/rodomaxi/pen/ExXYdJX)
