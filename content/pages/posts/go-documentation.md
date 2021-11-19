@@ -1,5 +1,5 @@
 ---
-title: Mark
+title: MarkDown Previewer
 subtitle: lorem-ipsum
 date: '2021-11-19'
 thumb_img_alt: lorem-ipsum
