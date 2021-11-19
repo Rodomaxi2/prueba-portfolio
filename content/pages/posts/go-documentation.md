@@ -11,5 +11,6 @@ seo:
   robots: []
   extra: []
 layout: post
+content_img_path: /images/markdown.webp
 ---
 Inside this page you can see two sections, one to edit and enter markdown code and the other one to see the results.
