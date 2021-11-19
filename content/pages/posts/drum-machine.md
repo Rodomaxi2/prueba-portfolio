@@ -14,9 +14,6 @@ layout: post
 thumb_img_path: /images/drum.webp
 content_img_path: /images/drum-96de8bb3.webp
 ---
-## Lorem ipsum
+A webpage where you can make music with your keyboard.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+[See more.](https://codepen.io/rodomaxi/pen/WNORGjX)
