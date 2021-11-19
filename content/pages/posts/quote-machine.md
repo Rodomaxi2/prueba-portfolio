@@ -3,7 +3,7 @@ title: Random Quote Machine
 subtitle: Looking for inspiration?
 date: '2021-08-22'
 thumb_img_alt: lorem-ipsum
-content_img_alt: lorem-ipsum
+content_img_alt: Thumbnail
 excerpt: Here you can see a wide range of quotes from different characters.
 seo:
   title: ''
