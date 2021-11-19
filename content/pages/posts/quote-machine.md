@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Go documentation
 subtitle: lorem-ipsum
 date: '2021-11-19'
 thumb_img_alt: lorem-ipsum
