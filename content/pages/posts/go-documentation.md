@@ -12,5 +12,6 @@ seo:
   extra: []
 layout: post
 content_img_path: /images/markdown.webp
+thumb_img_path: /images/markdown-3035e673.webp
 ---
 Inside this page you can see two sections, one to edit and enter markdown code and the other one to see the results.
