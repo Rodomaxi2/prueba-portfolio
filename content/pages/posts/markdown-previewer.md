@@ -4,7 +4,7 @@ subtitle: Edit a markdown file
 date: '2021-09-04'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
-excerpt: Edit a markdown file and see the pre
+excerpt: Edit a markdown file and see the preview
 seo:
   title: ''
   description: ''
