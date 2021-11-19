@@ -12,6 +12,7 @@ seo:
   extra: []
 layout: post
 thumb_img_path: /images/drum.webp
+content_img_path: /images/drum-96de8bb3.webp
 ---
 ## Lorem ipsum
 
