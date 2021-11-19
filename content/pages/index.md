@@ -29,6 +29,7 @@ sections:
         url: blog/index.html
         style: button
         new_window: true
+        icon_class: github
       - label: lorem-ipsum
         url: '#'
         style: link
