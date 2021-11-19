@@ -2,7 +2,7 @@
 title: Drum Machine
 subtitle: lorem-ipsum
 date: '2021-08-19'
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: Thumbnail
 content_img_alt: Thumbnail
 excerpt: A webpage where you can make music with your keyboard.
 seo:
