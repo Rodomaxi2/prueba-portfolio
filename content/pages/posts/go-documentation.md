@@ -12,9 +12,4 @@ seo:
   extra: []
 layout: post
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+Inside this page you can see two sections, one to edit and enter markdown code and the other one to see the results.
