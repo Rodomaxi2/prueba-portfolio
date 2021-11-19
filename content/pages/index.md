@@ -20,7 +20,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: button
-  - section_id: recent-posts
+  - section_id: recent-projects
     type: section_posts
     title: Some Projects
     posts_number: 4
