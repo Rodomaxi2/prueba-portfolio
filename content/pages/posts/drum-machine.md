@@ -1,6 +1,6 @@
 ---
 title: Drum Machine
-subtitle: lorem-ipsum
+subtitle: Make music
 date: '2021-08-19'
 thumb_img_alt: Thumbnail
 content_img_alt: Thumbnail
