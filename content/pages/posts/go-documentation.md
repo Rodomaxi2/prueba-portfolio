@@ -1,5 +1,5 @@
 ---
-title: MarkDown Previewer
+title: Go documentation
 subtitle: Edit a markdown file
 date: '2021-08-19'
 thumb_img_alt: lorem-ipsum
