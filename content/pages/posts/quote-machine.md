@@ -14,6 +14,6 @@ layout: post
 content_img_path: /images/quote.webp
 thumb_img_path: /images/quote-61c646e6.webp
 ---
-Here you can see a wide range of quotes from different characters.
+Here you can see a wide range of quotes from different characters and share them on Twitter. 
 
 [See more.](https://codepen.io/rodomaxi/pen/zYzKbMy)
