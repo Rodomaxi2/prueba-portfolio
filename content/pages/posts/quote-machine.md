@@ -1,6 +1,6 @@
 ---
 title: Random Quote Machine
-subtitle: lorem-ipsum
+subtitle: Looking for inspiratio?
 date: '2021-11-19'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
