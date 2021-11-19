@@ -28,6 +28,7 @@ sections:
       - label: View Project
         url: blog/index.html
         style: button
+        new_window: true
       - label: lorem-ipsum
         url: '#'
         style: link
