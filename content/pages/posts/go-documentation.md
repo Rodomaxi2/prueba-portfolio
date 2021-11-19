@@ -12,6 +12,6 @@ seo:
   extra: []
 layout: post
 content_img_path: /images/godoc.webp
-thumb_img_path: /images/markdown-3035e673.webp
+thumb_img_path: /images/godoc-0c4a4360.webp
 ---
 A little page to compare and see the profits of go language.
