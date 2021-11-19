@@ -12,6 +12,7 @@ seo:
   extra: []
 layout: post
 content_img_path: /images/quote.webp
+thumb_img_path: /images/quote-61c646e6.webp
 ---
 ## Lorem ipsum
 
