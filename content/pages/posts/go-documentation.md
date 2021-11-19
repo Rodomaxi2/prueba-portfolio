@@ -1,7 +1,7 @@
 ---
 title: Go Documentation
 subtitle: A little documentation
-date: '2021-09-19'
+date: '2021-09-01'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
