@@ -1,6 +1,6 @@
 ---
 title: MarkDown Previewer
-subtitle: lorem-ipsum
+subtitle: 'Edita a markdown '
 date: '2021-11-19'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
