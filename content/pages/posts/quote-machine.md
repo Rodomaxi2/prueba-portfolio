@@ -14,9 +14,6 @@ layout: post
 content_img_path: /images/quote.webp
 thumb_img_path: /images/quote-61c646e6.webp
 ---
-## Lorem ipsum
+Here you can see a wide range of quotes from different characters.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+[See more.](https://codepen.io/rodomaxi/pen/zYzKbMy)
