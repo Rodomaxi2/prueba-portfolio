@@ -14,6 +14,6 @@ layout: post
 thumb_img_path: /images/drum.webp
 content_img_path: /images/drum-96de8bb3.webp
 ---
-A webpage where you can make music with your keyboard.
+A webpage where you can make music with your keyboard and switch between two instruments.
 
 [See more.](https://codepen.io/rodomaxi/pen/WNORGjX)
