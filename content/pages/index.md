@@ -25,7 +25,7 @@ sections:
     title: Some Projects
     posts_number: 4
     actions:
-      - label: 'View '
+      - label: View Project
         url: blog/index.html
         style: button
 seo:
