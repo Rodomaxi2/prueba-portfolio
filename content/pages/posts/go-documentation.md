@@ -1,5 +1,5 @@
 ---
-title: Go documentation
+title: Go Documentation
 subtitle: Edit a markdown file
 date: '2021-08-19'
 thumb_img_alt: lorem-ipsum
